@@ -1,4 +1,4 @@
-# HTML & Web Development Full Course Notes (Beginner to Intermediate)
+# HTML & Web Development Full Course Notes (Beginner to Advanced)
 
 This course covers everything you need to know to become confident in HTML and the structure of modern web pages. Ideal for beginners.
 
